@@ -1,0 +1,19 @@
+{
+  "owner": {
+    "username": "yowai-hit0",
+    "email": "ybarasingiz@gmail.com"
+  },
+  "records": {
+    "TXT": {
+      "@": "brevo-code:e2deb201f054b9f625a0c7fbdc3bec83",
+      "_dmarc": "v=DMARC1; p=none; rua=mailto:rua@dmarc.brevo.com"
+    },
+    "CNAME": {
+      "brevo1._domainkey": "b1.bookly-is-a-dev.dkim.brevo.com",
+      "brevo2._domainkey": "b2.bookly-is-a-dev.dkim.brevo.com",
+      "mail": "mail-bookly-is-a-dev.brand.brevosend.com",
+      "r.mail": "mail-bookly-is-a-dev.r.brand.brevosend.com",
+      "img.mail": "mail-bookly-is-a-dev.img.brand.brevosend.com"
+    }
+  }
+}
